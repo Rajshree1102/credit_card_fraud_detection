@@ -11,6 +11,7 @@ The dataset used for this project is the publicly available Kaggle Credit Card F
 
 - Features: The dataset includes 30 features labeled from V1 to V28 (anonymized using PCA), and two other features: Time and Amount.
 - Target: The target column Class represents if a transaction is fraudulent (1) or legitimate (0).
+You can download the [dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) here.
 
 ## Models
 
