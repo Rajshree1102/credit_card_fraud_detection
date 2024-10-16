@@ -27,4 +27,5 @@ Since the dataset is highly imbalanced, standard accuracy may not be the best me
 - F1-Score: Harmonic mean of precision and recall.
 
 ## Results
+![Screenshot 2024-10-16 115625](https://github.com/user-attachments/assets/0ef3f9c2-5c5e-4055-9d79-7599e36fabcd)
 
